@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453519775315",
+    "project_id": "teaspoon-fbd4e",
+    "storage_bucket": "teaspoon-fbd4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453519775315:android:64cc6a414f633532ed58a6",
+        "android_client_info": {
+          "package_name": "com.ingunrooter.teaspoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUJQ_0oOeZpFDDjq0UKydbcaAf5byuaKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

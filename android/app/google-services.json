@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453519775315",
+    "project_id": "teaspoon-fbd4e",
+    "storage_bucket": "teaspoon-fbd4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453519775315:android:64cc6a414f633532ed58a6",
+        "android_client_info": {
+          "package_name": "com.ingunrooter.teaspoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453519775315-65lqeismi2nplc06ugf2ck2djtvk7p2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ingunrooter.teaspoon",
+            "certificate_hash": "96c8cc96d1c49314922bf4f0fc2d36e0daf5e80c"
+          }
+        },
+        {
+          "client_id": "453519775315-6tgd97v4qkeohi9seisgpek2e7qen1fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUJQ_0oOeZpFDDjq0UKydbcaAf5byuaKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453519775315-6tgd97v4qkeohi9seisgpek2e7qen1fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
